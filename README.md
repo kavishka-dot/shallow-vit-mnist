@@ -27,6 +27,10 @@ This project implements a **shallow Vision Transformer (ViT) with 3 encoder bloc
 ✅ Implements **layer normalization before attention & MLP** (ViT-specific).  
 ✅ Demonstrates **transformers in image classification** without heavy computation.  
 
+## **Performance**  
+
+✅ **Test Accuracy**: **94.6%** on MNIST.  
+✅ **Training Time**: Higher than CNNs due to the computational complexity of self-attention.  
 
 ## **Installation & Usage**  
 
