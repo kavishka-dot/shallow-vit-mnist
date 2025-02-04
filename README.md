@@ -33,5 +33,5 @@ This project implements a **shallow Vision Transformer (ViT) with 3 encoder bloc
 
 Clone the repository:  
 ```bash
-git clone https://github.com/your-username/shallow-vit-mnist.git
+git clone https://github.com/kavishka-dot/shallow-vit-mnist.git
 cd shallow-vit-mnist
